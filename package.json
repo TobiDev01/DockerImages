@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/@TobiDev01/DockerImages/issues"
   },
-  "homepage": "https://github.com/@TobiDev01/DockerImages#readme"
+  "homepage": "https://github.com/@TobiDev01/DockerImages#readme",
+  "publishConfig": {
+     "@TobiDev01:registry": "https://npm.pkg.github.com"
+  }
 }
